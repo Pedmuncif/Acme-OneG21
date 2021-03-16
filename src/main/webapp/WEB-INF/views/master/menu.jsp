@@ -20,7 +20,11 @@
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
-			<acme:menu-suboption code="master.menu.pedcarmor.favourite-link" action="https://www.realbetisbalompie.es/"/>
+			<acme:menu-suboption code="master.menu.enrmorvaz.favourite-link" action="https://www.sevillafc.es/"/>
+			<acme:menu-suboption code="master.menu.pedmuncif.favourite-link" action="https://twitter.com/"/>
+      <acme:menu-suboption code="master.menu.javhidrod1.favourite-link" action="https://www.realmadrid.com/"/>
+      <acme:menu-suboption code="master.menu.pedcarmor.favourite-link" action="https://www.realbetisbalompie.es/"/>
+
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
@@ -56,4 +60,6 @@
 		<acme:menu-option code="master.menu.sign-out" action="/master/sign-out" access="isAuthenticated()"/>
 	</acme:menu-right>
 </acme:menu-bar>
+
+
 
