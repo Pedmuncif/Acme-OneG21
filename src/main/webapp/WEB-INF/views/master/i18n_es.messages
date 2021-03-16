@@ -29,7 +29,11 @@ master.menu.sign-out = Salir
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.enrmorvaz.favourite-link = Moreno's Link
 master.menu.javhidrod1.favourite-link = Hidalgo's Link
+
+master.menu.pedmuncif.favourite-link = Enlace favorito de Muñoz
+
 
 # master.menu.administrator ###################################################
 
@@ -107,4 +111,5 @@ master.panic.label.request = Petición:
 master.panic.label.status = Estado:
 master.panic.label.exceptions = Excepciones:
 master.panic.text.consult-log = Por favor, consulte el log para ver más detalles.
+
 
