@@ -31,6 +31,9 @@ master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
 master.menu.enrmorvaz.favourite-link = Moreno's Link
 
+master.menu.pedmuncif.favourite-link = Enlace favorito de Muñoz
+
+
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrador
